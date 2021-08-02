@@ -1,4 +1,3 @@
-import { auto } from 'async';
 import React from 'react'
 import spinner from '../img/spinner.gif';
 
